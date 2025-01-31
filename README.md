@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ working on build and test automation<br>🌱 learning game development<br>💬 ask me about Python, DevOps, or game design<br>📚 ask me what I'm reading
+⚒️ working on build and test automation<br>🌱 learning game development<br>💬 ask me about Python, DevOps, or game design<br>📚 ask me what I'm reading<br>🦀 rust curious
 
 
 ## 🌐 Socials:
